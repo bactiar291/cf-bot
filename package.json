@@ -1,15 +1,18 @@
 {
-  "name": "cyber finance",
+  "name": "mining-automation",
   "version": "1.0.0",
-  "description": "probably nothing",
-  "main": "cf.js",
+  "description": "Automasi untuk tugas mining menggunakan API Cyberfin",
+  "main": "cf.js", 
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "cf.js" 
   },
-  "author": "Bactiar291",
-  "license": "MIT",
   "dependencies": {
-    "axios": "^0.21.1",  // Versi tergantung pada yang terbaru saat Anda menginstalnya
-    "dotenv": "^8.2.0"   // Versi tergantung pada yang terbaru saat Anda menginstalnya
-  }
+    "axios": "^0.27.2",
+    "dotenv": "^10.0.0"
+  },
+  "engines": {
+    "node": ">=22.8.0" 
+  },
+  "author": "bactiar 291", 
+  "license": "MIT"
 }
