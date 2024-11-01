@@ -1,0 +1,15 @@
+{
+  "name": "cyber finance",
+  "version": "1.0.0",
+  "description": "probably nothing",
+  "main": "cf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bactiar291",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",  // Versi tergantung pada yang terbaru saat Anda menginstalnya
+    "dotenv": "^8.2.0"   // Versi tergantung pada yang terbaru saat Anda menginstalnya
+  }
+}
