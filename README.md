@@ -1,3 +1,3 @@
 ## cyber finance bot
-# key bisa lihat di grup tele 
+# key masukan 111000
 Lets goo
